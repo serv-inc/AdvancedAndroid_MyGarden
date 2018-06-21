@@ -27,7 +27,11 @@ import com.example.android.mygarden.ui.MainActivity;
 
 public class PlantWidgetProvider extends AppWidgetProvider {
 
+<<<<<<< HEAD
     // TODO (1): Modify updateAppWidget method to take an image resource and call
+=======
+    // TODO (1): Modify updateAppWidget method to take an image recourse and call
+>>>>>>> 28dc82448b8cc269b388f6eb83437d2c156400bf
     // setImageViewResource to update the widget’s image
     static void updateAppWidget(Context context, AppWidgetManager appWidgetManager,
                                 int appWidgetId) {
